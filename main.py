@@ -92,7 +92,7 @@ class AplicacionNomina:
 
         ttk.Label(frame, text="Aplicación: Gestión de Empleados",
                   font=("Arial", 10, "bold")).pack()
-        ttk.Label(frame, text="Autor: XXXXXXXXX").pack(pady=2) # nombre del autor en esta línea
+        ttk.Label(frame, text="Autor: Maria Valentina Monroy Junco").pack(pady=2) # nombre del autor en esta línea
         ttk.Separator(frame, orient="horizontal").pack(fill="x", pady=8)
         ttk.Label(frame, text="Contraseña:").pack()
 
